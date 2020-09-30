@@ -1,4 +1,4 @@
-from playsound import playsound
+from playsound import playsound # Funcao responsavel por falar
 import speech_recognition as sr
 from gtts import gTTS
 from playsound import playsound
