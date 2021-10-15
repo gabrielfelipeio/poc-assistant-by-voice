@@ -1,3 +1,5 @@
 # assistant-by-voice
 
-Using IBM Watson Assistant by voice commands
+Using IBM Watson Assistant by voice commands.
+
+This is a Proof of Concept for using the functionality in an enterprise application.
