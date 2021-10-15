@@ -1,4 +1,4 @@
-# assistant-by-voice
+# Assistant by Voice
 
 Using IBM Watson Assistant by voice commands.
 
