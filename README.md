@@ -1,4 +1,4 @@
-# Assistant by Voice
+# POC - Assistant by Voice
 
 Using IBM Watson Assistant by voice commands.
 
